@@ -10,4 +10,8 @@ This module takes in string and performs the following operations on it:
   -simulatesfrom stack to integer 
 
 
+
+
+
+
 Copyright (C) 2015, Sebastian Horoszkiewicz
